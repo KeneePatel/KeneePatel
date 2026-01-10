@@ -44,10 +44,6 @@ Computer vision pipeline processing 720p video streams at 30+ FPS with 65% reduc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patelkenee/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenee.patel@dal.ca)
 
-## 📊 GitHub Stats
-
-![Kenee's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeneePatel&show_icons=true&theme=radical)
-
 ---
 
 💡 *Always open to collaborating on interesting projects in ML, distributed systems, and blockchain technology!*
