@@ -34,4 +34,4 @@ From March to December 2024 I contributed to projects in the Starknet ecosystem.
 
 What I reach for most: TypeScript, Next.js, Node.js, Python, Terraform, Docker, AWS, and GCP.
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/patelkenee/).
+You can also find me on [LinkedIn](https://www.linkedin.com/in/patelkenee/), or at my [portfolio site](https://kennypatel.dev/).
